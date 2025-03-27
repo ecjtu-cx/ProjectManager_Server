@@ -1,6 +1,0 @@
-/home/chengxi/ProjectDir/ProjectManager_Server/build/CMakeFiles/ProjectManager.dir
-/home/chengxi/ProjectDir/ProjectManager_Server/build/CMakeFiles/edit_cache.dir
-/home/chengxi/ProjectDir/ProjectManager_Server/build/CMakeFiles/rebuild_cache.dir
-/home/chengxi/ProjectDir/ProjectManager_Server/build/LoginRegister/CMakeFiles/LoginRegister.dir
-/home/chengxi/ProjectDir/ProjectManager_Server/build/LoginRegister/CMakeFiles/edit_cache.dir
-/home/chengxi/ProjectDir/ProjectManager_Server/build/LoginRegister/CMakeFiles/rebuild_cache.dir

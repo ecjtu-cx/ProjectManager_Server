@@ -1,2 +1,0 @@
-/usr/bin/ar qc libLoginRegister.a CMakeFiles/LoginRegister.dir/src/LoginModule.cpp.o
-/usr/bin/ranlib libLoginRegister.a
